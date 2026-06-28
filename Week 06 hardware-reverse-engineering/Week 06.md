@@ -272,7 +272,7 @@ Materi minggu ini membuka wawasan saya bahwa Reverse Engineering tidak hanya dil
 
 # Referensi
 
-1. Modul Praktikum Reverse Engineering
+1. Modul Waskita Amikom Reverse Engineering
 2. Ghidra Documentation
 3. Binwalk Documentation
 4. JTAG Boundary Scan Standard
