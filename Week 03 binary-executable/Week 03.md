@@ -298,7 +298,7 @@ Materi minggu ini membuat saya memahami bahwa executable bukan hanya kumpulan in
 
 # Referensi
 
-1. Modul Praktikum Reverse Engineering
+1. Modul Waskita Amikom Reverse Engineering
 2. Microsoft PE Format Documentation
 3. Linux ELF Specification
 4. Ghidra Documentation
