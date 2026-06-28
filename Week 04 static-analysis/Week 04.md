@@ -298,7 +298,7 @@ Materi minggu ini membuat saya memahami bahwa banyak informasi penting mengenai 
 
 # Referensi
 
-1. Modul Praktikum Reverse Engineering
+1. Modul Waskita Amikom Reverse Engineering
 2. Ghidra Documentation
 3. IDA Free Documentation
 4. Microsoft PE Format Documentation
