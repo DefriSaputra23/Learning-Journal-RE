@@ -209,7 +209,7 @@ Dari materi yang dipelajari, saya menyadari bahwa Reverse Engineering bukan seka
 
 # Referensi
 
-1. Modul Praktikum Reverse Engineering
+1. Modul Reverse Engineering
 2. Dokumentasi IDA Free
 3. Dokumentasi Ghidra
 4. Malware Unicorn RE Notes
